@@ -1,0 +1,30 @@
+{
+  "name": "volls",
+  "version": "1.0.0",
+  "description": "Polls app without user login",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obsinqsob01/volls.git"
+  },
+  "keywords": [
+    "vue",
+    "node",
+    "mongodb",
+    "MEVN"
+  ],
+  "author": "Luis Contreras Guerra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Obsinqsob01/volls/issues"
+  },
+  "homepage": "https://github.com/Obsinqsob01/volls#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8"
+  }
+}
